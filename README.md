@@ -36,4 +36,10 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliolh0686&show_icons=true&theme=transparent)
+###
+
+<div align="left">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliolh0686&show_icons=true&theme=transparent)
+</div>
+
+###
