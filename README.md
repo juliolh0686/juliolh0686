@@ -1,7 +1,7 @@
 ###
-
+<h1 align="left">
 <p align="left">Julio Loarte Huerto</p>
-
+</h1>
 ###
 
 <h2 align="left">About me</h2>
