@@ -35,3 +35,5 @@
 </div>
 
 ###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliolh0686&show_icons=true&theme=transparent)
